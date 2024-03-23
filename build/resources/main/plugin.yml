@@ -1,0 +1,6 @@
+name: LoginKR
+main: net.islandearth.anvillogin.AnvilLogin
+author: Spinnin34
+version: "1.1.9"
+softdepend: [AuthMe, FastLogin, PlaceholderAPI]
+api-version: 1.13

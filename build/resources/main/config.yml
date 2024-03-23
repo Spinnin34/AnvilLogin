@@ -1,0 +1,24 @@
+#
+#   ██████╗██████╗ ██╗███╗  ██╗███╗  ██╗██╗███╗  ██╗
+#  ██╔════╝██╔══██╗██║████╗ ██║████╗ ██║██║████╗ ██║
+#  ╚█████╗░██████╔╝██║██╔██╗██║██╔██╗██║██║██╔██╗██║
+#   ╚═══██╗██╔═══╝ ██║██║╚████║██║╚████║██║██║╚████║
+#  ██████╔╝██║     ██║██║ ╚███║██║ ╚███║██║██║ ╚███║
+#  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚══╝╚═╝  ╚══╝╚═╝╚═╝  ╚══╝
+#
+
+Password: 'adminkarmancos' #La contraseña que la gente utilizará para iniciar sesión en su servidor. No se utilizará si utiliza AuthMe.
+Timeout: true
+Time: 600
+register: false
+debug: false
+fastlogin: true
+login_messages: true
+left_slot:
+  type: ANVIL
+  model: 0
+right_slot:
+  type: AIR
+  model: 0
+disable-op-bypass: true
+default_language: ESPAÑOL
